@@ -15,3 +15,5 @@
 * oil added
 
 ## Mashrom Dosa
+* Dosa batter
+* Mashroom masala added
