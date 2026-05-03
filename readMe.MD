@@ -17,6 +17,3 @@
 ## Mashrom Dosa
 * Dosa batter
 * Mashroom masala added
-* butter added
-* dry fruits added
-* tomato keera added
