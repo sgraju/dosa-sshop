@@ -13,3 +13,6 @@
 
 ## egg dosa
 * oil added
+
+## Ghee Karam
+* Dosa batter
